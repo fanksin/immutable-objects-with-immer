@@ -12,4 +12,4 @@ It is used in place of the spread operator, and it solves nested object spreadin
 
 It also makes your code more readable.
 
-The main purpose is to get the data from an immutable variable, and create a new variable with that data, and adding or overwriting some more date. This way the original constant or immutable object stays safe and untouched.
+The main purpose is to get the data from an immutable variable, and create a new variable with that data, and adding or overwriting some more data. This way the original constant or immutable object stays safe and untouched.
